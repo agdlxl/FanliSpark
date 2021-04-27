@@ -4,7 +4,6 @@ import java.sql.{Connection, Statement}
 import java.util.Properties
 
 import com.alibaba.druid.pool.DruidPooledConnection
-import com.liangxl.gmall.realtime.sdb.DruidPool.map
 
 import scala.collection.mutable
 
